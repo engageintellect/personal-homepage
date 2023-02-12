@@ -17,11 +17,11 @@
 			<Hero />
 		</div>
 
-		<div class="lg:container mx-auto">
+		<div class="max-w-7xl mx-auto">
 			<Carousel />
 		</div>
 	</div>
-	<div class="container mx-auto">
+	<div class="max-w-5xl mx-auto">
 		<Stats />
 		<Chat />
 

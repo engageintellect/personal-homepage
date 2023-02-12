@@ -16,7 +16,9 @@
 			<div class="camera" />
 			<div class="display">
 				<div class="artboard artboard-demo phone-1">
-					<Hero />
+					<div class="">
+						<Hero />
+					</div>
 				</div>
 			</div>
 		</div>
