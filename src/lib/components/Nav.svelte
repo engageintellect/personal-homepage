@@ -69,7 +69,7 @@
 				</ul>
 			</div>
 			<a href="mailto:jc9361@gmail.com">
-				<button class="btn"> Email Me </button>
+				<button class="btn">Email</button>
 			</a>
 		</div>
 	</div>

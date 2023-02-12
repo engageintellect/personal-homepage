@@ -1,6 +1,6 @@
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">Instant Insights</div>
+		<div class="text-3xl font-bold text-center my-5">Highlights</div>
 		<div class="text-lg text-center my-5">
 			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint Lorem
 			commodo ea pariatur.
@@ -14,7 +14,7 @@
 					xmlns="http://www.w3.org/2000/svg"
 					fill="none"
 					viewBox="0 0 24 24"
-					class="inline-block w-8 h-8 stroke-current"
+					class="inline-block w-10 h-10 stroke-current"
 					><path
 						stroke-linecap="round"
 						stroke-linejoin="round"
@@ -34,7 +34,7 @@
 					xmlns="http://www.w3.org/2000/svg"
 					fill="none"
 					viewBox="0 0 24 24"
-					class="inline-block w-8 h-8 stroke-current"
+					class="inline-block w-10 h-10 stroke-current"
 					><path
 						stroke-linecap="round"
 						stroke-linejoin="round"
@@ -48,29 +48,16 @@
 			<div class="stat-desc">21% more than last month</div>
 		</div>
 
-		<div class=" stat lg:hidden xl:stat">
-			<div class="stat-figure text-secondary">
-				<div class="avatar online w-12">
-					<img
-						class="rounded-full"
-						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-					/>
-				</div>
-			</div>
-			<div class="stat-title">Page Views</div>
-			<div class="stat-value text-secondary">262k</div>
-			<div class="stat-desc">11% more than last month</div>
-		</div>
-
 		<div class="stat">
 			<div class="stat-figure text-secondary-focus">
 				<div class="avatar online w-12">
-					<img
-						class="rounded-full"
-						alt="avatar"
-						src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
-					/>
+					<a href="https://github.com/engageintellect">
+						<img
+							class="rounded-full hover:scale-105 transitiona-all duration-200"
+							alt="avatar"
+							src="https://avatars.githubusercontent.com/engageintellect"
+						/>
+					</a>
 				</div>
 			</div>
 			<div class="stat-title">Engineering</div>
